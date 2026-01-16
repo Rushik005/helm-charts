@@ -3,7 +3,17 @@ entries:
   vote:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2026-01-16T15:00:31.529311048Z"
+    created: "2026-01-16T15:42:35.454514398Z"
+    description: A Helm chart for Kubernetes
+    digest: f4934787999c52f15fe14398009f221f6d5d143dd997b01013aacc20ebe5b35a
+    name: vote
+    type: application
+    urls:
+    - vote-0.1.60.tgz
+    version: 0.1.60
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-01-16T15:42:35.453593822Z"
     description: A Helm chart for Kubernetes
     digest: 35355e84219f615381ac3af8793159b3e5b2fb468799d7cc79e5bab9671b773c
     name: vote
@@ -11,4 +21,4 @@ entries:
     urls:
     - vote-0.1.59.tgz
     version: 0.1.59
-generated: "2026-01-16T15:00:31.527174997Z"
+generated: "2026-01-16T15:42:35.452492745Z"
